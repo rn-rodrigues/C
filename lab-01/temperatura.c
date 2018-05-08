@@ -18,7 +18,10 @@ int main() {
 			printf("Numeros acima da média: %d\n",temps[i]);
 		}
 	}
-	printf("Média das temperaturas: %d\n",media)		
+	printf("Média das temperaturas: %d\n",media)
+return 0;
+
+}
 	
 
 		
