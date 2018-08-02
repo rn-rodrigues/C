@@ -19,7 +19,7 @@ void strjoin(char strDest[], char str1[], char str2[]) {       //junta as string
 	for (j=0; j<strlenn(strDest); j++) {
 		strDest[i+j] = str2[j];
 	}
-	
+	strDest[i+j]= '\0';	
 }
 
 int main() {
