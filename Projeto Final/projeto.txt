@@ -1,5 +1,5 @@
 ABC		    10		9		8
 Flamengo	9		8		7
-Bahia		8		7		6
+Bahia		  8		7		6
 Parana		7		6		10
-Vasco		6		8		9
+Vasco		  6		8		9
